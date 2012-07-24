@@ -1,0 +1,58 @@
+3. The Free Market Foundations
+
+Everyone Agrees that Monopolies are Bad
+
+The contention that monopolies are bad is widely considered to be so unambiguously decided and obvious, that in most cases it is not even necessary to explain why monopolies are bad, merely arguing that something results in a monopoly is enough reason to be opposed to it. Congress has deemed preventing monopolies to be in such a vested
+
+Historically, the association of patents with government granted monopolies was much more apparent. In fact the first statutory expression of patents in English law by Parliament in 1624 was called the Statute of Monopolies.[38] In many countries, such as England, patents started as royal decrees based not on an invention, but merely on political connections and favors. In fact, in some cases patents didn’t even have to be given for a new invention, but rather
+
+The consensus is so bipartisan that the federal government often makes a big show of using anti-trust laws to break up or attempt to break up a monopoly. For example, when Bill Gates was dragged before the Senate Judiciary in March of 1998 to answer for the allegations from the Justice Department that Microsoft was a monopoly, Senators ranging from Republicans Orrin Hatch of Utah and Mike DeWine of Ohio to Democrats Herb Kohl of Wisconsin and Patrick Leahy of Vermont took the opportunity to speak out against monopolies. The question up for debate was not whether the federal government ought to use its power to break up monopolies, that was already assumed, but whether or not Microsoft was in fact a monopolist.[39]
+
+The opposition to monopoly is so widespread that even critics of anti-trust laws don’t bother to defend monopolies, instead they represent some of the most strident defenders of the free market and levy the criticism that the only true monopolies are ones created by the government in the first place. As Murray Rothbard argues in Man, Economy and State:
+
+>Thus, we conclude not only that there is nothing “wrong” with “monopoly price,” but also that the entire concept is meaningless. There is a great deal of “monopoly” in the sense of a single owner of a unique commodity or service (definition 1). But we have seen that this is an inappropriate term and, further, that it has no catallactic significance. A “monopoly” would be of importance only if it led to a monopoly price, and we have seen that there is no such thing as a monopoly price or a competitive price on the market. There is only the “free-market price.”[40]
+Instead he, offers an earlier definition of the term monopoly given by the seventeenth-century jurist Lord Coke:
+
+>A monopoly is an institution or allowance by the king, by his grant, commission, or otherwise . . . to any person or persons, bodies politic or corporate, for the sole buying, selling, making, working, or using of anything, whereby any person or persons, bodies politic or corporate, are sought to be restrained of any freedom or liberty that they had before, or hindered in their lawful trade.[41]
+
+In his book Free to Choose, Milton Friedman using a much more mainstream definition of monopoly, argued that monopolies were next to impossible to achieve on a worldwide scale and that free trade and removal of government barriers to entry were a more effective solution.[42]
+
+Even those who defend the monopoly privileges that the government gives out to companies like public utilities and Major League Baseball, do so with the justification that monopolies will occur in these sectors of the economy anyways and that a regulated monopoly is better than an unregulated one.[43]
+
+With a bipartisan consensus in Washington DC that monopolies are bad and the only disagreements from a free market perspective coming from economists arguing that the monopolies the government tries to break up were either created by the government themselves or not actually monopolies at all, it is nearly impossible to come up with someone who would argue with a straight fact that monopolies are good.
+
+Why Even Pro-IP Free Marketeers Should Agree
+
+There is certainly fierce and even occasionally healthy debate within the libertarian community over intellectual property. Despite these disagreements, there ought to be no debate about the benefits of someone choosing to voluntarily relinquish their monopoly privileges and consequently the arguments I make in this book.
+
+The utilitarian arguments for copyright and patents are not that they are areas of natural monopoly where formation of a monopoly is an inevitable outcome of market competition, but rather the exact opposition. Proponents instead argue that without monopoly, the innovation or creative work, and the resulting market, would not have been created in the first place without the potential for monopoly. They argue that the system of intellectual property is necessary to properly incentivize innovation. Such logic is used everywhere from Article 1 Section 8 of the US Constitution[44]
+
+These arguments go out the window when a creation has already been completed and the creator voluntarily chooses to forgo additional government privileges, which is what happens when software is licensed in a way that leaves other free to build on, modify and adapt the original code. The argument that something will not be created simply can not apply once it has already been created.
+
+Furthermore, there is no good argument that it would somehow be better if creators utilized their intellectual property to extract rents perhaps with the justification that that those funds would allow for further creation and innovation for several reasons. First, there is no guarantee that intellectual property can yield a profit in the first place, even with monopoly protection. Secondly, there is no reason way to guarantee that even with additional money the creator will produce more of something useful or that they will even try, perhaps retirement would be preferred. Finally, the case rests on the assumption that money would fail to be available to the creator through some other means.
+
+Perhaps such a specific scenario does exist, but even still, from a utilitarian perspective, that loss would have to outweigh the gains from all of the forgone exclusion, which, as this book sets out to show, are quite large.
+
+Even if it was the case, there is also no libertarian solution to force a creator to try to use a government granted monopoly to extract higher rents from the market.
+
+The moral or ethical arguments for intellectual property have come from such libertarians as Ayn Rand, Andrew Joseph Galambos[45] and J. Neil Schulman[46].[47] The logic of these arguments is that intellectual property is a legitimate extension of the natural right of private property ownership.
+
+However, granting someone the ethical right to exclude people from the benefits of their work implicitly grants, or ought to grant, them the right to choose not to do so.
+
+Thus, though my argument is heavily steeped in and inspired by anti-IP libertarian theory and arguments, the idea that it is best to choose the software with the least intellectual property restrictions is one that applies to not only anti-IP libertarians, but libertarians of all kinds. In fact, at the root of my arguments are the same ideas that lead people to oppose monopolies.
+
+____________
+
+[37] Two Firefox plugins did deliver ActiveX support, but they were last updated in 2005 and 2008.
+[38] Needs better citation than just http://en.wikipedia.org/wiki/Statute_of_Monopolies_of_1623
+[39] http:/ / news. cnet. com/ 2100-1023-208651. html and http://www.cnn.com/TECH/computing/9803/03/gates.full/
+[40] http://mises.org/books/mespm.pdf page 698
+[41] Ibid. pages 668-669. Rothbard would write on page 670 about a similar definition he quotes from Francis Wyland that:
+>It is obvious that this type of monopoly can never arise on a free market, unhampered by State interference. In the free economy, then, according to this definition, there can be no “monopoly problem.”33 Many writers have objected that brand names and trade-marks, generally considered as part of the free market, really constitute grants of special privilege by the State. No other firm can “compete” with Hershey chocolates by producing its own product and calling it Hershey chocolates.34 Is this not a State-imposed restriction on freedom of entry? And how can there be “real” freedom of entry under such conditions?
+[42] Milton Friedman, Free to Choose, p. 53-54
+[43] For a rebuttal see Thomas J. DiLorenzo, The Review of Austrian Economics Vol. 9, No. 2 (1996): 43-58 ISSN 0889-3047 http://mises. org/journals/ rae/ pdf/ RAE9_2_3. pdf
+[44] Which reads “To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries;”
+[45] Galambos' ideas about intellectual property are so extreme that Stephan Kinsella remarked in a footnote of Against Intellectual Property (p.17): 
+I also met a real, live Galambosian once, much to my surprise (I had supposed that they were fictional creations of Tuccille [It Usually Begins with Ayn Rand, pp. 69–71])at a Mises Institute conference a few years ago.
+[46] Schulman famously introduced his arguments in favor of IP in a 1983 debate with Wendy McElroy and then later wrote them down in an article “Informational Property: Logorights.” Journal of Social and Biological Structures (1990), online at http://jneilschulman.rationalreview.com/2009/12/classic-j-neil-informational-property-logorights/ . 
+[47] See Kinsella, N. Stephan Against Intellectual Property pp. 16-17 and 23-28 for brief summaries of the arguments of all 3.

@@ -1,0 +1,17 @@
+Software Licenses
+
+The Black Duck Software KnowledgeBase of over 570,000 open source programs listed on 5,400 different websites identifies more than 2,200 licenses under which the code can be used.[60] Nearly every closed source, proprietary piece of software has its own license and end user license agreements (EULA) that sometimes go on for dozens of pages. Apple’s iTunes Terms and Conditions are infamous for being over 15,000 words and going so far as to prevent the use of iTunes in the manufacture of nuclear, chemical or biological weapons.[61] The iTunes EULA was even the subject of an episode of the vulgar cartoon South Park in which 4th grader Kyle Broflovski failed to read the EULA and unknowingly agreed to become part of Steve Jobs’ Human “CentiPad”, a parody based on the horror film Human Centipede.[62]
+
+With so many licenses, it is useful to provide some background and discussion of them in order not to have it bog down the comparison of specific software. Separating the discussion of the licenses from the software also helps to paint a much clearer picture of the landscape of software license activism and include a bit of background about the people behind some of the licenses.
+
+Despite so many licenses, there are only so many restrictions that software developers commonly want to impose on users of their software and modification of their code. Thus, it is common to discuss certain groups of similar licenses with similar features. 
+
+Separating out this discussion also allows those readers who are familiar with software licenses and the activism that surrounds them to not have to be bored by reading my explanations. If you are wondering if you qualify as one of those people, the simplest test is your knowledge of relevant 3 letter acronyms. If you know why ESR disagrees with RMS; the differences in the mission statements of the FSF, ASF, and OSI; how the terms of the GPL, LGPL, and MPL differ from those in the ASL, BSD and MIT and which of those apply to which software on your computer; or thought to yourself that the use of BSD and MIT was incorrect in that last item because they should have been followed by the word “license”, you can probably safely skip ahead to the next section of chapters.
+
+____________
+
+[60] Black Duck Software, “Black Duck KnowledgeBase”, accessed July 8, 2012, online at http://www.blackducksoftware.com/knowledgebase.
+[61] The word count that gedit  comes up with for the words from “Terms and Conditions” through “Last Updated: May 23, 2012” is exactly 15,428 for the version that appeared online at http://www.apple.com/legal/itunes/us/terms.html on July 8, 2012.
+The exact phrasing of the ban on using iTunes to create WMDs is:
+You also agree that you will not use these products for any purposes prohibited by United States law, including, without limitation, the development, design, manufacture, or production of nuclear, missile, or chemical or biological weapons.
+[62] The episode was Season 15 Episode 1, “HUMANCENTiPAD” and can be watched online at http://www.southparkstudios.com/full-episodes/s15e01-humancentipad. Be warned, despite being a cartoon, the show is not for the faint of heart.

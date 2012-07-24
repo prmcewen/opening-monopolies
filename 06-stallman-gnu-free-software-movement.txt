@@ -1,0 +1,28 @@
+7. Richard Stallman, GNU and the Free Software Movement
+
+Coincidentally enough, it was in 1983, the same year that software gained full copyright protection under the law, that Richard Stallman, a programmer working at MIT’s Artificial Intelligence Lab, announced the formation of what he called the GNU Project. GNU is a recursive acronym that stands for GNU’s Not Unix. The G literally stands for the acronym itself.
+
+The goal of the project was to develop a free operating system that would be compatible with the proprietary Unix operating system that was developed by AT&T’s Bell Labs in 1969 to be called the GNU Operating System.
+
+By free Stallman did not mean he wanted software to be given away free of charge, rather as a user of software, he wanted the freedom to use and modify software.
+
+Perhaps the most famous story of Stallman’s desire for freedom as a user and frustration with being denied it is the story of the new Xerox printer that was donated to the MIT AI Lab in 1980.[63] In order to deal with the issue of paper jams that occurred from time to time with their previous printer, Stallman had acquired a copy of the source code for the printer drivers and modified it to automatically alert users with pending print jobs of paper jams, so they could go and fix them. However, the new Xerox printer only came with the binary version of the driver.
+
+Rather than the human readable code that Stallman could modify and improve, it contained only the machine readable 1’s and 0’s that results after code is compiled. That in itself was not a huge deal or unusual. What was unusual is that no one else had the source code either. In what today would be a curious decision, Stallman did not even bother to ask Xerox for the source code. "They had already given us the laser printer, why should I bug them for more?" Stallman was later quoted as saying. He had acquired the source code to the driver for their previous computer from a colleague at Harvard, his alma mater, and figured he could find someone else to get the source code from. That was the attitude regarding software at the time; it was a communal resource to be freely given from one user to another and modified and improved along the way.
+
+When Stallman finally tracked down someone who had the source code in a Carnegie Mellon computer scientist who had just quit a job at Xerox working on the new laser printer. When he finally managed to get to Pittsburgh to ask for a copy of the code, he encountered a obstacle for the first time, the non-disclosure agreement or NDA, the researched had signed with Xerox that prevented him from passing out the source code.
+
+It was that mindset that lead Stallman to leave his job to work full time on the GNU project in 1984 and provided the inspiration for the Free Software Foundation which he founded in 1985 and the idea of free software itself. The term free software in this context should not be confused with software that is distributed free of charge. Stallman and the Free Software Foundation explain the distinction by saying that it is free as in speech, not as in beer.[64]
+
+Karl Fogel explained the problem saying that “If there were a place to submit bug reports on the English language, we could submit one saying that we need an adjectival form of ‘liberty’ that doesn't also mean ‘costs no money.’”[65]
+
+Most importantly, the FSF defines free software in terms of what they call the four essential freedoms.[66] Being programmers, their list starts at zero:
+>(0) to run the program, 
+>(1) to study and change the program in source code form, 
+>(2) to redistribute exact copies, and 
+>(3) to distribute modified versions.
+
+Only software that gives the user all 4 freedoms qualifies as free software by their definition. Violating any of the requirements even partially is enough to disqualify a license. For example the JSON License includes the requirement that “The Software shall be used for Good, not Evil.” and is therefore not considered a free software license because it places a restriction on freedom 0.[67]
+
+The problems with restrictively licensed software meant that Richard Stallman and those helping on the GNU project were not the only programmers who decided to do something about it. A computer science graduate student at the University of Helsinki in Finland named Linus Torvalds was among them.
+He had been using an operating system called MINIX which had a free license, but only for educational and academic use. Wanting a free operating system under a less restrictive license that he could tinker with on his personal computer without the high cost of Sun’s Unix, he set out to develop a kernel that could be combined with other free software such as the Emacs text editor and C compiler written by the GNU team to create an entire operating system.
