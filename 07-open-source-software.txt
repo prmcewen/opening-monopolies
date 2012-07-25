@@ -1,0 +1,16 @@
+9. Open Source Software
+
+Not everyone who wrote and supported free software liked the idea of having Richard Stallman and the Free Software Foundation as the leading voice of software that was distributed with source code for anyone to modify. On such person was mentioned in the Preface to this book, Eric S. Raymond. The event that was the catalyst for a series of events that ultimately became the reasons you probably had heard the term "open source" before you even picked up this book, started when Raymond first presented his paper "The Cathedral and the Bazaar"[68] in September of 1997 at the O'Reilly Perl Conference.[69] Just months later, and in part due to the success of Raymond's presentation,[70] Netscape announced on January 22, 1998 that they would be releasing the source code to their popular Netscape Communicator web browser, in what was an unprecedented move for a major software developer at the time.[71]
+
+Shortly afterwards, it was realized that the announcement created a unique window to get the corporate world to listen to what hackers had to say about the optimal software development process. Thus in Palo Alto, California on February 3rd, a strategy session was held out of which the term open source was born.[72]
+
+The reason for the new term was not over any kind of dispute with the free software movement about what acceptable software licenses were and, in fact, the definition of acceptable open source licenses that would ultimately be decided on by the Open Source Initiative that was spawned by many of the same individuals at the aforementioned strategy session is only slightly less restrictive than the definition of free software used by Stallman and the FSF, but rather entirely in the justifications given for the use of such licenses.[73]
+
+_____________
+
+[69] Open Source Initiative, "History of the OSI", accessed July 5, 2012, online at http://www.opensource.org/history
+[70] Ibid.
+[71] Mitchell Baker, "January 22, 1998 — the Beginning of Mozilla", January 22nd, 2008, accessed July 5, 2012, online at http://blog.lizardwrangler.com/2008/01/22/january-22-1998-the-beginning-of-mozilla/
+[72] Open Source Initiative, "History of the OSI", accessed July 5, 2012, online at http://www.opensource.org/history
+[73] Richard M. Stallman, "Why Open Source misses the point of Free Software", 2010, accessed July 5, 2012, online at http://www.gnu.org/philosophy/open-source-misses-the-point.html
+[74] http://www.itworld.com/it-managementstrategy/233753/gpl-copyleft-use-declining-faster-ever http://blogs.the451group.com/opensource/2011/12/15/on-the-continuing-decline-of-the-gpl/

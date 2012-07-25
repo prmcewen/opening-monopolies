@@ -16,31 +16,52 @@ Introduction
 2. Introduction
 
 On Intellectual Monopolies
+
 3. The Free Market Foundations
+
 4. A Crash Course in Libertarian Anti-IP Theory
 
 Software Licenses
+
 5. Brief History of Proprietary Software
+
 6. Richard Stallman, GNU and the Free Software Movement
+
 7. Open Source Software
+
 8. Permissive and Copyfree Licenses
 
 The Criteria of Choice
+
 9. The Criteria of Choice
+
 10. The Harm from Closed Source
+
 11. Software Network Effects
+
 12. Agency Harm and the Power of Your Choice
+
 13. Reinventing the Wheel Harm and Copyleft Virality
+
 14. Copyleft and the problems with the GNU GPL
 
 The Software Choices
+
 15. Operating Systems
+
 16. Smart Phones
+
 17. Web Video and Audio Formats
+
 18. Browsers and Web Standards
+
 19. Office Suites
 
 Conclusion
+
 20. Answers to Common Objections
+
 21. Conclusion
+
 22. Epilogue - Why Open Monopolies Will Win
+

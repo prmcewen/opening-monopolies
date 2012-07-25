@@ -26,3 +26,12 @@ Only software that gives the user all 4 freedoms qualifies as free software by t
 
 The problems with restrictively licensed software meant that Richard Stallman and those helping on the GNU project were not the only programmers who decided to do something about it. A computer science graduate student at the University of Helsinki in Finland named Linus Torvalds was among them.
 He had been using an operating system called MINIX which had a free license, but only for educational and academic use. Wanting a free operating system under a less restrictive license that he could tinker with on his personal computer without the high cost of Sun’s Unix, he set out to develop a kernel that could be combined with other free software such as the Emacs text editor and C compiler written by the GNU team to create an entire operating system.
+
+_______________
+
+[63] http://oreilly.com/openbook/freedom/ch01.html
+[64] http://www.gnu.org/philosophy/free-sw.html
+[65] http://questioncopyright.org/copyright_and_open_source
+[66] http://www.gnu.org/philosophy/free-sw.html
+[67] http://www.gnu.org/licenses/license-list.html#JSON
+[68] Eric S. Raymond, "The Cathedral and the Bazaar", 2000, online at http://www.catb.org/~esr/writings/cathedral-bazaar/

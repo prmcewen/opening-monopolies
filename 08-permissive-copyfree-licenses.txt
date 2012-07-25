@@ -1,0 +1,13 @@
+10. Permissive and Copyfree Licenses
+
+The term permissive license is a class of free software licenses that are not copyleft. Though it is very close to a definition that is consistent with a minimally restrictive license, many licenses that do place some restrictions on the user are still considered to be permissive licenses because the restrictions are not copyleft in nature.
+ 
+Though the term is only recently coined and still has not achieved widespread use, there are some who refer to licenses that place no restrictions on the user other than 
+
+One such license that places some non-copyleft restrictions on the user is the Apache license. Though the restrictions are quite minimal, they preclude the license from being classified as fully copyfree. 
+
+Software is perhaps the only area of creation subject to copyright that sees a significant percentage of creators utilizing the most libertarian licenses possible in our current system. The two licenses that are used by the overwhelming majority of such projects originated on opposite coasts, each at major universities. The MIT License originally written at the Massachusetts Institute of Technology for the X Window System and the BSD License, named for the Berkeley Software Distribution, a Unix-like operating system created at the University of California - Berkeley, each are some of the most common licenses chosen and certainly considered by software developers. Calculating statistics about the popularity of software licenses by project is difficult and trying do so by lines of code or popularity with users is even more difficult yet, but the best estimates available place the percentage of open source or free software projects using such licenses around the 15 to 20% marks.[74]
+
+When I previously referred to the MIT License and BSD License in the singular, it was not entirely accurate. There have been multiple licenses used by MIT and UC-Berkeley over the years that are referred to the name MIT License or BSD License.
+
+The original BSD License is what is now called the 4-clause BSD License. The New, Modified or 3-clause BSD License removed the advertising clause from the original
