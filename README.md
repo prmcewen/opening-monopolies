@@ -45,23 +45,25 @@ The Criteria of Choice
 
 14) Copyleft and the problems with the GNU GPL
 
+15) Permissive Software as an Open Monopoly Trojan Horse
+
 The Software Choices
 
-15) Operating Systems
+16) Operating Systems
 
-16) Smart Phones
+17) Smart Phones
 
-17) Web Video and Audio Formats
+18) Web Video and Audio Formats
 
-18) Browsers and Web Standards
+19) Browsers and Web Standards
 
-19) Office Suites
+20) Office Suites
 
 Conclusion
 
-20) Answers to Common Objections
+21) Answers to Common Objections
 
-21) Conclusion
+22) Conclusion
 
 22) Epilogue - Why Open Monopolies Will Win
 

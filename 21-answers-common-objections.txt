@@ -1,0 +1,26 @@
+19. Answers to Common Objections
+
+A better title probably would have been “Answers to What I Anticipate Will be Common Objections” as no one has yet objected to any part of my book, but based on what I am familiar
+
+You are a hypocrite because this book is copyrighted
+
+It is indeed true that this book is copyrighted under a Creative Commons Attribution 3.0 Unported License,[132] but no it’s not hypocritical.
+I may have chosen the license, but I did not choose to copyright this book. That decision was made for me by the US federal government. In fact, the use of copyright as a verb as I did in the first sentence of this paragraph is incorrect. Copyright is a noun, not a verb. It is something I have as the result of writing this book, not something I did. According to the government’s website copyright.gov, “Your work is under copyright protection the moment it is created and fixed in a tangible form that it is perceptible either directly or with the aid of a machine or device.”[133] That means there is a reasonable chance, especially if I ever read it or hear it, that your criticism of me is also under copyright. Copyright was made automatic when the US on March 1, 1989[134] with the implementation of the Berne Convention Implementation Act of 1988 after passage by the US Senate.[135]
+
+Now, I would love to wave my copyright and release the work into the public domain. However, it’s not entirely clear if that is legally possible. Stefan Kinsella very effectively outlines the argument that it is impossible or at least not legally clear in a Mises Economics Blog post.[136] His views essentially mirror my own on the issue and because he has a law degree with a specialty in intellectual property, I am going to defer to him on this matter.
+
+Most importantly, it is not clear that any widely used license less restrictive than CC-BY is legally valid around the world. When selecting a license, there are several criteria that were important to me.
+
+The license should be a widely used and easily recognizable to people who care about such things. There is no reason for people to have to continually look up the actual text of ever license they encounter. There are already too many.
+
+It should also be legally valid worldwide. The entire purpose of not restricting my work is to allow people to use, modify, and copy it. If they have to consult a lawyer to find out if they can do any of those things or expose themselves to legal risks when they do so, that nearly defeats the entire utilitarian reasons for opposing copyright in the first place. Perhaps, I could take a stand against copyright by dedicating the work to the public domain despite the fact that it would place a number of legal questions surrounding use of my work. While I’m not necessarily opposed to civil disobedience, such action seems to accomplish less in terms of anti-copyright activism than allowing my book to be widely read.
+
+Finally, the license should place a few restrictions on the user as possible. Ideally, I would like to impose no restrictions on those seeking to use my work, but in the event that is not possible for other reasons, minimal restrictions and the restrictions that are least onerous should be prioritized. Requiring the attribution of the work to me seems to fit both of those requirements because it is something that nearly everyone using any text from the book would do anyways.
+
+___________
+
+[132] http://creativecommons.org/licenses/by/3.0/
+[133] http://www.copyright.gov/help/faq/faq-general.html#mywork
+[134] Just months before I was born.
+[135] http://en.wikipedia.org/wiki/Berne_Convention_for_the_Protection_of_Literary_and_Artistic_Works. Also see Irvin Molotsky, “Senate Approves Joining Copyright Convention”, New York Times, October 21, 1988, accessed July 7, 2012, online at http://www.nytimes.com/1988/10/21/arts/senate-approves-joining-copyright-convention.html.
+[136] Stephan Kinsella, “Copyright is very sticky!”,  Mises Economics Blog, January 14, 2009, accessed July 7, 2012, online at http://archive.mises.org/9240/copyright-is-very-sticky/.
