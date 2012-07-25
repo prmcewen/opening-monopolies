@@ -10,7 +10,9 @@ By submitting changes you agree to grant Patrick McEwen a perpetual, worldwide, 
 Though not all of the chapters have even been started and fewer than that have any of the already written text uploaded to github, this is the currently planned table of contents.
 
 Introduction
+
 1. Preface
+
 2. Introduction
 
 On Intellectual Monopolies
