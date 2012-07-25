@@ -1,0 +1,34 @@
+17. Web Video and Audio Formats
+
+A message telling you to install a plug-in to view or listen to online video or audio files is no stranger to a seasoned internet browser. While such requirements may seem like just a minor annoyance to the end user, they represent the tip of the proverbial iceberg in the battles between various software companies over the video and audio formats that are used on the web.
+
+In the most general sense, codecs are programs that can encode and decode a digital data stream and is in fact a portmanteau of "coder-decoder."[124]
+The competing options for both video and audio codecs and formats can be very easily broken down into 2 group, proprietary and open. What makes discussions of proprietary codecs much different from our prior discussions of software licenses is that they are restricted by patents rather than copyright. While many of the issues relating to intellectual property restrictions on software are the same for both patents and copyrights, patents are different in a number of important ways.
+
+Copyright terms in the US are 70 years past the death of the author for new works with an individual author or 95 years from publication for corporate works, assuming the length of the copyright term is not again extended by Congress.[125] In the context of the software, it might as well be infinite. Unlike literary works or music, there is not a treasure trove of work published before 1923 in the public domain to draw from. Perhaps some currently written software will be useful a century from now, but I for one won't be betting on it.
+
+In contrast, patents filed on or after June 8, 1995 are protected for 20 years from the filing date.[126] Certainly a long time by the standards of computer technology, but not as long as one might think. For example, the still widely used mp3 format was unveiled for the first time in 1993, nearly 20 years ago.[127] Unless something changes dramatically in the next couple of years, mp3 will be a format with widespread use past the expiration of all of the restrictive patents.
+
+Another distinction is that unlike with copyright, the process of filing and being granted a patent creates the risk of unknown submarine patents. With a work subject to copyright law, the creator of the work owns the entirety of the copyright to it. Knowing the creator means 100% certainty about knowledge of the intellectual property holder. Software algorithms, like those used in codecs, can violate patents that the creators did not even know existed.
+
+The battle over audio formats pits the open Ogg Vorbis codec against the patent encumbered audio formats of the Motion Picture Experts Group, MPEG. Perhaps the most well known of those formats is mp3. Technically the MPEG-1 or MPEG-2 Audio Layer III, the mp3 format is such a universal standard that an entire class of devices are called mp3 players after the audio format of the songs they play. However, the future of HTML5 audio and the web is not the mp3 format. Even if a format restricted by patent licensing requirements continues dominance over audio formats, it will be Advanced Audio Coding, more commonly referred to as AAC, that is part of the MPEG-4 specifications.
+
+Video formats once again feature an Ogg format battling against a format with patent holders looking for users to pay licensing fees. In this case it is the Ogg Theora video codec and the H.264 codec. Video however has a 3rd player not present in the audio competition created from the purchase of a company called On2 by Google. Google irrevocably licensed the patents required to use On2's VP8 video codec to everyone royalty free.
+
+Discussions of audio and video standards and codecs could not be complete without a discussion of MPEG LA. The group was formed in 1990's as a solution to the patent problems that plagued the MPEG-2 formats. Patents were owned by multiple different groups and individually negotiating licenses to use them all with each patent holder created large transaction costs that slowed down the adoption of the standard.[128] The solution that MPEG LA came up with was for patent holders to create a patent pool so that multiple users could license multiple patents from multiple holders, what they call the "many-to-many licensing model."[129]
+
+The group licenses what they believe are all of the necessary patents for a number of video and audio codecs. In terms of the future of audio and video on the web, the most important of these is AVC/H.264. As of this writing, MPEG LA listed 29 patent licensors[130] and 1128 licensees[131] of the technology. It is important to note some of the names that among the 29 companies holding patents, mostly both Apple and Microsoft, as well as companies whose names appear only in the list of licensees, namely Google.
+
+Another aspect of MPEG LA that is important to describe before the discussion continues is the way in which they go about creating patent pools from which to license.
+
+____________
+
+
+[124] http://en.wikipedia.org/wiki/Codec
+[125] For works published in the past the length of the copyright term is highly variable. See http://copyright.cornell.edu/resources/publicdomain.cfm for an explanation of those terms.
+[126] For patents filed before June 8, 1995, the term is the longer of 17 years from the issue date or 20 years from the filing date.
+[127] However, due to technicalities regarding the length of patents, it will not become a fully free audio format until 2017. Seehttp://www.osnews.com/story/24954/US_Patent_Expiration_for_MP3_MPEG-2_H_264 and http://www.tunequest.org/a-big-list-of-mp3-patents/20070226/
+[128] MPEG LA, "A History of Success – A Future in Innovation", accessed July 2, 2012, online at http://www.mpegla.com/main/Pages/AboutHistory.aspx
+[129] MPEG LA, "Revolutionizing Intellectual Property Rights Management", accessed July 2, 2012, online at http://www.mpegla.com/main/Pages/About.aspx
+[130] http://www.mpegla.com/main/programs/AVC/Pages/Licensors.aspx
+[131] http://www.mpegla.com/main/programs/AVC/Pages/Licensees.aspx
