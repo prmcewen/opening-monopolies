@@ -1,4 +1,4 @@
-10. The Criteria of Choice
+9. The Criteria of Choice
 
 In a proper academic case for using software with as few copyright restrictions as possible, the starting point would be some kind of ethical framework in which the evaluate the harms and benefits of various software choices. I am going to intentionally choose not to develop such an ethical framework for several reasons.
 
