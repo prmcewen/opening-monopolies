@@ -1,0 +1,32 @@
+##. Joining the Invisible Hand
+
+A libertarian might read this story and proclaim that it is yet another example of the triumph of the free market, though it runs somewhat contrary to the narrative that the freedom Microsoft won to continue its monopolies in the face of the antitrust suit was a victory for the market. In a general sense that claim is essentially correct. However, such a description conceals just who the free market. in this case, essentially a bunch of computer programmers acting deliberately together to keep the Internet open and give people a choice of software to use it with.3. Joining the Invisible Hand
+
+As Virgina Postrel somewhat predictively wrote in Reason in 1999:
+
+>At stake is what Eric S. Raymond, editor of "The New Hacker's Dictionary" and a Linux evangelist, calls a quasi-political question: "Will the Internet culture tolerate single-vendor monopolies on critical infrastructure or not?" The answer appears to be no. Internet culture will work to undermine monopolies. And it will do so faster, and more harmoniously with the fluid nature of the technical world, than will lawyers.[17]
+
+It coudl be argued that the culture of the Internet was secondary to the economics in keeping the Internet open and whether anyone was paying attention and fighting for certain standards and software out of principle, the superior innovation anbd efficiency of an open Internet and browser standards would have emerged victorious eventually. Several libertarian writers who have written about technology and received emails from readers encouraging them to 
+
+But, why do superior technologies emerge victorious from free market competition? It takes someone recognizing their superiority and choosing thei product over the competition.  
+
+In the same way that libertarians use tools of economic analysis to conclude that government regulations harm consumers and stiinnfle entrepreneurial innovation, it can be shown that when software developers add features to their software that are designed to lock-in consumers and prevent the emergence of competitive choices in the market have many of the same detrimental impacts on consumers and free market competition. Of course, government actions to interfere in the free market certainly present addition moral concerns for libertarians that are not present in the purely private creation of artificial barriers to competition, like the ones Microsoft often seeks to impose on consumers.
+
+Libertarian economists have long argued that gold and the gold standard are free enterprise money,[19] software licenses that place no restrictions on the licensee, software that makes the source code available to all and open standards that make their documentation available for anyone to see, use and implement constitute free enterprise software. Though it is wrong to have the government restrict people from using any software they choose and we don’t yet have as large of an empirical data set to pull from as we do with the gold standard, it is clear that such software wins out in free market competition.[20]
+
+Such software also ought to be much less controversial than the gold standard even within the libertarian community. While even some libertarians manage to come up with reasons why a free market in money is unworkable,[21] there ought to be no debate that anyone who does not support a free market in computer software is no libertarian at all.
+
+As libertarian computer programmer Eric Raymond explained in November of 1998:
+
+>Libertarians must be willing to forthrightly condemn such behavior. Otherwise we will justly be accused of desiring a future in which such tactics are the norm. If we are not willing to be part of the market `invisible hand' that non-coercively punishes Microsoft for its misbehavior, we invite the argument that only coercion will do.
+
+>The only principled response to the facts is to condemn both the DOJ and Microsoft. That one party is a villain does not make the other a saint, and even the fact that one side is clearly using coercion does not automatically redeem the other from the charge of having behaved badly.[18]
+
+
+_____________
+
+[17] Virginia Postrel, “What Really Scares Microsoft”, Reason, November 8, 1999, accessed July 11, 2012, online at http://reason.com/archives/1999/11/08/what-really-scares-microsoft/1
+[18] Eric S. Raymond, “Why Libertarians Should Not Love Bill Gates”, accessed July 9, 2012, online at http://www.catb.org/~esr/writings/libgates.html 
+[19] See for example Walter Block, “Gold is Free Enterprise Money”, speech given at Austrian Economics and Financial Markets conference, February 19, 2005, http://mises.org/media/1348/ 
+[20] A much stronger case will be made for this argument later in this book and particularly in the Epilogue.
+[21] Yes, I know that there are some of you out there who would say these people are no really libertarians at all. However, here I want to 

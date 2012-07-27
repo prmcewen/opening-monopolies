@@ -37,9 +37,11 @@ To frame the discussion in the context of economic models, commodization of vari
 
 For someone unfamiliar with many of the features and technologies that go into making a browser, it might be hard to grasp why the dominance of one browser that was only available for a single operating system was such a big deal back then. After all in today’s browser market, Internet Explorer is only available on Windows and Safari only on Macs. The Internet experience is nearly identical whether one uses either of those browsers or Chrome or Firefox which are available across multiple operating systems.
 
-The answer is simply that those people who wanted to commodify operating systems and Internet browsers won and Microsoft lost. Before you start thinking this is some perverse attempt to justify the antitrust lawsuit, let me assure you that it’s not.
+The answer is simply that those people who wanted to commodify operating systems and Internet browsers won and Microsoft lost. 
+
+Before you start thinking this is some perverse attempt to justify the antitrust lawsuit, let me assure you that it’s not.
  
-It turns out that the antitrust lawsuit did nothing to stop Internet Explorer from coming to utterly dominate the browser market. Though market share of browsers is difficult to calculate and the survey methodology used in the late 90’s made it even worse, estimates of IE’s use in 1997, before the lawsuit was filed, placed it at somewhere between about 20% and 30% with Netscape Navigator representing all but about 5% of the remaining market share.[8] By 2004, well after the antitrust lawsuit had concluded, all estimates of IE use had the browser capturing over 90% of the market, one estimate had it as high as 96%.[9]
+It turns out that the antitrust lawsuit did nothing to stop Internet Explorer from coming to utterly dominate the browser market. Though market share of browsers is difficult to calculate and the survey methodology used in the late 90’s made it even worse, estimates of IE’s use in 1997, before the lawsuit was filed, placed it at somewhere between about 20% and 30% with Netscape Navigator representing all but about 5% of the remaining market share.[8] By 2004, after the antitrust lawsuit had concluded, all estimates of IE use had the browser capturing over 90% of the market, one estimate had it as high as 96%.[9]
 
 Before we can discuss why the disastrous things predicted by the opponents of Microsoft’s market dominance failed to come to fruition, it’s important to discuss what exactly those things were.
 
@@ -69,38 +71,28 @@ Despite Microsoft’s utter dominance in capturing a greater than 90% share of b
 
 Who was behind Apache that allowed it to take on Microsoft and win? Essentially just 8 server administrators and their email list exchanging patches to the NCSA HTTPd server software that they were running.[16] Of course over time, it would grow to involve many more people, but the core development model never changed much.
 
-As long as Apache controlled a majority of the server market, Microsoft would need them to go along with any changes to standard Internet protocols. As long as Apache remained open source and largely running on Linux powered servers, Microsoft’s “embrance and extend” strategy couldn’t use Apache to bend protocols into closed, proprietary channels.
+As long as Apache controlled a majority of the server market, Microsoft wou need them to go along with any changes to standard Internet protocols. As long as Apache remained open source and largely running on Linux powered servers, Microsoft’s “embrance and extend” strategy couldn’t use Apache to bend protocols into closed, proprietary channels.
 
-A libertarian might read this story and proclaim that it is yet another example of the triumph of the free market, though it runs somewhat contrary to the narrative that the freedom Microsoft won to continue its monopolies in the face of the antitrust suit was a victory for the market. In a general sense that claim is essentially correct. However, such a description conceals just who the free market. in this case, essentially a bunch of computer programmers acting deliberately together to keep the Internet open and give people a choice of software to use it with.
+Eventually, the Mozilla Foundation, a group created by Netscape to manage the open sourced browser code, decided to scrap the Netscape browser and start over from scratch. The resulting browser was named Firefox and by nearly all accounts was a superior product to Internet Explorer. The steady gains in Firefox's first few years against IE would demonstrate that libertarians who had argued in vain that the antitrust lawsuit was unneccessary were correct. The free market was capable of breaking the Microsoft monopoly on its own.
 
-As Virgina Postrel somewhat predictively wrote in Reason in 1999:
-
->At stake is what Eric S. Raymond, editor of "The New Hacker's Dictionary" and a Linux evangelist, calls a quasi-political question: "Will the Internet culture tolerate single-vendor monopolies on critical infrastructure or not?" The answer appears to be no. Internet culture will work to undermine monopolies. And it will do so faster, and more harmoniously with the fluid nature of the technical world, than will lawyers.[17]
-
-Perhaps, the culture 
-
-In the same way that libertarians use tools of economic analysis to conclude that government regulations harm consumers and stifle entrepreneurial innovation, it can be shown that when software developers add features to their software that are designed to lock-in consumers and prevent the emergence of competitive choices in the market have many of the same detrimental impacts on consumers and free market competition. Of course, government actions to interfere in the free market certainly present addition moral concerns for libertarians that are not present in the purely private creation of artificial barriers to competition, like the ones Microsoft often seeks to impose on consumers.
-
-Libertarian economists have long argued that gold and the gold standard are free enterprise money,[19] software licenses that place no restrictions on the licensee, software that makes the source code available to all and open standards that make their documentation available for anyone to see, use and implement constitute free enterprise software. Though it is wrong to have the government restrict people from using any software they choose and we don’t yet have as large of an empirical data set to pull from as we do with the gold standard, it is clear that such software wins out in free market competition.[20]
-
-Such software also ought to be much less controversial than the gold standard even within the libertarian community. While even some libertarians manage to come up with reasons why a free market in money is unworkable,[21] there ought to be no debate that anyone who does not support a free market in computer software is no libertarian at all.
+What those free market Microsoft advocates failed to understand was that it was only the efforts to stop Microsoft that guided the Internet to a place where another browser could enter the market so easily. Had Microsoft been able to successfully de-commoditize Windows through proprietary technologies like ActiveX that relied on the Windows operating system to implement features in the browser, Mozilla could have never delivered the cross-platform, full featured browser that was able to take on Internet Explorer so successfully.
 
 The Intellectual Property Version
 
 It should not be too surprising that there is a much more simple way to demonstrate from a libertarian perspective that Microsoft’s actions were not the free market ____ that some had made them out to be. The basis of the bargaining power that allowed Microsoft to dictate the licensing terms that they used to restrict competition was not derived from the free market, but rather from government granted monopolies on their intellectual property in the forms of patents and copyright.
 
-In the late 90’s as the antitrust lawsuit was still in full swing, some libertarians still held flawed beliefs about the economics surrounding intellectual property. For example, in a 1998 article on Microsoft for the Mises Institute’s Free Market, Françoise Melese wrote that a popular operating system was an example of a scarce resource that could lead to the creation of a natural monopoly.[22]
+In the late 90’s as the antitrust lawsuit was still in full swing, some libertarians still held flawed beliefs about the economics surrounding intellectual property. For example, in a 1998 article on Microsoft for the Mises Institute’s Free Market, Françoise Melese wrote that a popular operating system was an example of a scarce resource that could lead to the creation of a natural monopoly.[17] It wasn't until Stephan Kinsella's 2001 essay "Against Intellectual Property" that anyone had articluated so clearly that the pattern of 1's and 0's that were used to create an operating system were in fact not scarce at all.[18]
 
-Over 12 years after the antitrust lawsuit was filed against Microsoft, Stephan Kinsella said in an interview with Jeffrey Tucker, about the issue of intellectual property that:[23]
+The licensing deals that gave Microsoft power over the original equipment manufacturers (OEMs) that supplied the hardware for PC's were the result of copyright.
 
->Finally, everything fell into place, primarily from Rothbard and Misesian theory. I found that this issue is difficult, but once you see it, it's one of these issues that sets peoples' minds on fire. It frees you to think about other things in different ways. It's like five or six other walls also fall in your mind on topics that you already had a view on. Now you can see them in a different light — about economic theory and libertarian theory.
-For me one of those other topics was software licensing. 
+Even with the legal protections against source code releases that Microsoft if afforded by the govenrment through intellectual property, they have been unsuccessful in completely stopping leaks of the source code to their Windows operating system.[19] Furthermore, the use of decompilers to create human readable code from the binaries destributed by Microsoft makes it unclear exactly how closed source code could be kept if it were legal to try to reverse engineer and modify it.
 
-As libertarian computer programmer Eric Raymond explained in November of 1998:
+It's true that some of Microsoft's anti-competitive practices could have been implemented even without intellectual property. Some of their tactics rely on secrecy and technical barriers to competition within their software that don't rely on intellectual property.
 
-Libertarians must be willing to forthrightly condemn such behavior. Otherwise we will justly be accused of desiring a future in which such tactics are the norm. If we are not willing to be part of the market `invisible hand' that non-coercively punishes Microsoft for its misbehavior, we invite the argument that only coercion will do.
+However, it is quite clear that all or nearly all of Microsoft's revenue is dependent upon intellectual property. They make money by selling licenses to Windows, Windows Server, Office and other software. Another source of revenue is patent license deals, something that it was recently revealed are even forced upon companies running Linux servers at the threat of lawsuit.[20]
 
-The only principled response to the facts is to condemn both the DOJ and Microsoft. That one party is a villain does not make the other a saint, and even the fact that one side is clearly using coercion does not automatically redeem the other from the charge of having behaved badly.[18]
+
+
 _____________
 [0] Maryann Jones Thompson, “Behind the numbers Browser market share”, CNN, October 08, 1998, accessed July 10, 2012, online at http://articles.cnn.com/1998-10-08/
 [1] US Justice Department, “JUSTICE DEPARTMENT FILES ANTITRUST SUIT AGAINST MICROSOFT FOR UNLAWFULLY MONOPOLIZING COMPUTER SOFTWARE MARKETS”, May 18, 1998, accessed July 9, 2012, online at http://www.justice.gov/atr/public/press_releases/1998/1764.htm 
@@ -120,10 +112,8 @@ http://mises.org/daily/583/
 [14] In 1998 Microsoft operating systems were estimated at comprising over 90% of the desktop market, http://news.cnet.com/Windows-95-remains-most-popular-operating-system/2100-1040_3-228773.html
 [15] http://news.netcraft.com/archives/category/web-server-survey/ 
 [16] http://www.apache.org/history/timeline.html
-[17] Virginia Postrel, “What Really Scares Microsoft”, Reason, November 8, 1999, accessed July 11, 2012, online at http://reason.com/archives/1999/11/08/what-really-scares-microsoft/1
-[18] Eric S. Raymond, “Why Libertarians Should Not Love Bill Gates”, accessed July 9, 2012, online at http://www.catb.org/~esr/writings/libgates.html 
-[19] See for example Walter Block, “Gold is Free Enterprise Money”, speech given at Austrian Economics and Financial Markets conference, February 19, 2005, http://mises.org/media/1348/ 
-[20] A much stronger case will be made for this argument later in this book and particularly in the Epilogue.
-[21] Yes, I know that there are some of you out there who would say these people are no really libertarians at all. However, here I want to 
-[22] Françoise Melese, “Piling on Microsoft”, The Free Market, February 1998, Volume 16, Number 2, online at http://mises.org/freemarket_detail.aspx?control=95
-[23] Stephan Kinsella, “Understanding IP: An Interview with Stephan Kinsella”, Mises Daily: Thursday, October 21, 2010, accessed July 9, 2012, online at http://mises.org/daily/4792.
+[17] Françoise Melese, “Piling on Microsoft”, The Free Market, February 1998, Volume 16, Number 2, online at http://mises.org/freemarket_detail.aspx?control=95
+[18] Stephan Kinsella “Against Intellectual Property,” Journal of Libertarian Studies 15 no. 2 (Spring 2001): 1-53, http://mises.org/document/3582.
+[19] Robert Lemos, "Microsoft probes Windows code lead", CNET News, February 12, 2004, accessed July 26, 2012, online at http://news.cnet.com/2100-7349_3-5158496.html
+[20] Steven J. Vaughan-Nichols, "Microsoft profits from Linux patent FUD", ZDNet, July 25, 2012, accessed July 25, 2012, online at http://www.zdnet.com/microsoft-profits-from-linux-patent-fud-7000001598/
+[21] Stephan Kinsella, “Understanding IP: An Interview with Stephan Kinsella”, Mises Daily: Thursday, October 21, 2010, accessed July 9, 2012, online at http://mises.org/daily/4792.
