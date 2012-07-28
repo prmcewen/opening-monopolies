@@ -18,6 +18,7 @@ For me, one of those other topics became software and software licenses. However
 
 I initially thought that someone must have written about the application of these ideas to computer software. There were enough computer programmers who cared about software licensing, enough libertarians who cared about opposing intellectual property and enough of an overlap between computer geeks and libertarians that surely someone must have already understood the enornmous potential of the subject and written at least a several thousand word comprehensive essay on the subject. What I managed to find were surprisingly few blog posts on the subject.
 
+------
 
 In 2001, Petr Hrebejk and Tim Boudreau[1] wrote an article published on CNet.com titled “The coming "open monopoly" in software” that argued the economics of software development will inevitably results open source software out competing restricted proprietary software and that despite their best efforts, vendors like Microsoft will be powerless to stop it.[2] The resulting open monopoly would be one where any software vendor could easily compete in the market because of the dominance of open source software and standards. For whatever reason, the term “open monopoly” never caught on. It could be said that the term fell well short of monopoly status.
 
@@ -61,7 +62,7 @@ In some cases, which software choice is better from the intellectual property pe
 
 Though there certainly exists multiple reasons to oppose the existence of intellecutal property, this book is written from the libertarian perspective that it is not a legitimate form of property and impedes the functioning of the free market. Thus, when in the questions of intellectual property are in doubt, the answers will be found by looking to the choice that most reduces barriers to free market exchanges.
 
-
+-------------
 
 In the world of computer software, I am much more of a consumer than a creator. Though I have programmed a bit, my skill level comes nowhere close to even understanding the majority of software I use, much less recreating it or even improving upon it.
 

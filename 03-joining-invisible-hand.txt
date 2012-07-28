@@ -1,12 +1,14 @@
-##. Joining the Invisible Hand
+3. Joining the Invisible Hand
 
-A libertarian might read this story and proclaim that it is yet another example of the triumph of the free market, though it runs somewhat contrary to the narrative that the freedom Microsoft won to continue its monopolies in the face of the antitrust suit was a victory for the market. In a general sense that claim is essentially correct. However, such a description conceals just who the free market. in this case, essentially a bunch of computer programmers acting deliberately together to keep the Internet open and give people a choice of software to use it with.3. Joining the Invisible Hand
+A libertarian might read the introduction in the last chapter and proclaim that Microsoft's failure to lock consumers into using their Internet Explorer browser is yet another example of the triumph of the free market, even though such a declaration runs somewhat contrary to the narrative that the freedom Microsoft won to continue its monopolies in the face of the antitrust suit was a victory for the market. In a general sense that claim is essentially correct. However, such a description conceals just who makes up the free market. In this case, essentially a bunch of computer programmers acting deliberately together to keep the Internet open and give people a choice of software to use it with.
 
 As Virgina Postrel somewhat predictively wrote in Reason in 1999:
 
 >At stake is what Eric S. Raymond, editor of "The New Hacker's Dictionary" and a Linux evangelist, calls a quasi-political question: "Will the Internet culture tolerate single-vendor monopolies on critical infrastructure or not?" The answer appears to be no. Internet culture will work to undermine monopolies. And it will do so faster, and more harmoniously with the fluid nature of the technical world, than will lawyers.[17]
 
-It coudl be argued that the culture of the Internet was secondary to the economics in keeping the Internet open and whether anyone was paying attention and fighting for certain standards and software out of principle, the superior innovation anbd efficiency of an open Internet and browser standards would have emerged victorious eventually. Several libertarian writers who have written about technology and received emails from readers encouraging them to 
+It is really only with the perspective of over a decade of hindsight that from Postrel's prediction about the answer to that question that we can truly say she was correct in saying it was no. In 2004, with Microsoft in control of well over 90% of the browsers in use, the answer appeared to be yes.
+
+Some might argue that the culture of the Internet and the people, most importantly the server administrators, web designers and programmers, who make up that culture were secondary to the underlying economics in keeping the Internet open and whether anyone was paying attention and fighting for certain standards and software out of principle, the superior innovation anbd efficiency of an open Internet and browser standards would have emerged victorious eventually. Several libertarian writers who have written about technology and received emails from readers encouraging them to 
 
 But, why do superior technologies emerge victorious from free market competition? It takes someone recognizing their superiority and choosing thei product over the competition.  
 
