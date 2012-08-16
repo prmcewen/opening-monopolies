@@ -1,4 +1,4 @@
-15. Operating Systems
+17. Operating Systems
 
 Operating systems are software that manages computer hardware and functions in between that hardware and the applications that run on the computer. Examples include Microsoft's Windows and Apple's OS X.
 
