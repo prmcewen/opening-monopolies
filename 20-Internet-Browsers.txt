@@ -1,4 +1,4 @@
-17. Internet Browsers
+20. Internet Browsers
 
 In the browser wars, there are basically 5 browsers that dominate the desktop market, Microsoft’s Internet Explorer, Google’s Chrome, Mozilla’s Firefox, Apple’s Safari, and Opera. Consistent with my previous assumptions about the computer abilities and the demands of average users, I’m not going to discuss the only fully copyfree browser, w3m, because it simply is not practical for the average computer user. There are some other browsers that have significant amounts of copyfree code in them, but most users want features, such as extensions, that are only available in the big name browsers or won’t be persuaded to install a browser of which they have never heard.
 
