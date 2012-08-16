@@ -1,4 +1,4 @@
-16. Web Video and Audio Formats
+19. Web Video and Audio Formats
 
 A message telling you to install a plug-in to view or listen to online video or audio files is no stranger to a seasoned internet browser. While such requirements may seem like just a minor annoyance to the end user, they represent the tip of the proverbial iceberg in the battles between various software companies over the video and audio formats that are used on the web.
 
