@@ -1,4 +1,4 @@
-14. Copyleft and the problems with the GNU GPL
+15. Copyleft and the problems with the GNU GPL
 
 The license at the core of the efforts of the Free Software Foundation (FSF) is called the GNU General Public License,[100] sometimes shortened to GNU GPL or just the GPL. The license is based around a principle commonly referred to as copyleft. The term is a play on the word copyright and as the name suggests, uses copyright laws for the exact opposite purpose of conventional use.Rather than using copyright law to stop people from sharing software with others, copyleft licenses are designed to compel people to share their code.
 
