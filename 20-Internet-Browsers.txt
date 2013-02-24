@@ -1,9 +1,10 @@
 17. Internet Browsers
 
-In the browser wars, there are basically 5 browsers that dominate the desktop market, Microsoft’s Internet Explorer, Google’s Chrome, Mozilla’s Firefox, Apple’s Safari, and Opera. Consistent with my previous assumptions about the computer abilities and the demands of average users, I’m not going to discuss the only fully copyfree browser, w3m, because it simply is not practical for the average computer user. There are some other browsers that have significant amounts of copyfree code in them, but most users want features, such as extensions, that are only available in the big name browsers or won’t be persuaded to install a browser of which they have never heard.
+In the browser wars, there are basically 5 browsers that dominate the desktop market, Microsoft’s Internet Explorer, Google’s Chrome, Mozilla’s Firefox, Apple’s Safari, and Opera. Depending on who you ask, other browsers comprise anywhere from .13% of usage to 4.5%. [1]
 
-One of the aspects that makes the choice of a browser from a libertarian copyright perspective so interesting is that the amount of copyright control exerted by the authors of different browsers varies even more greatly than between desktop operating systems. I
-Grouped into several categories and presented more or less in order from least libertarian to most, here is my analysis of the copyright status of the major browsers.
+Consistent with my previous assumptions about the computer abilities and the demands of average users, I’m not going to discuss the only fully copyfree browser, w3m, because it simply is not practical for the average computer user. There are some other browsers that have significant amounts of copyfree code in them, but most users want features, such as extensions, that are only available in the big name browsers or won’t be persuaded to install a browser of which they have never heard.
+
+One of the aspects that makes the choice of a browser from a libertarian copyright perspective so interesting is that the amount of copyright control exerted by the authors of different browsers varies even more greatly than between desktop operating systems.
 
 Microsoft Internet Explorer – Internet Explorer is a fully proprietary browser. Licenses don’t get much less libertarian than this as it takes full advantage of every bit of copyright protection afforded to it by the law. Unfortunately, the story doesn’t end there. Microsoft refuses to have IE natively support open formats that don’t require licensing patents like WebM and the Ogg formats in an attempt to ensure that proprietary formats like H.264 become the standard on the web.
 
@@ -45,4 +46,8 @@ It is not entirely clear which one does more to oppose copyright from a libertar
 
 In essence, I think the ultimate decision really comes down to whether or not it is better to support the Mozilla Foundation or Google. Your use of their browser not only contributes to their financial success, but also places your vote as a user in the democracy of internet, formats, standards and protocols in their hands. And that discussion is one for another post.
 
+___________
 
+Footnotes:
+
+[1] Numbers are for July 2012, "Usage share of web browsers", http://en.wikipedia.org/wiki/Usage_share_of_web_browsers

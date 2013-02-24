@@ -1,6 +1,6 @@
 2. Introduction
 
-One of the most critical moments in the history of Internet innovation was the first half of the last decade when Microsoft seemed poised to vanquish Netscape’s browser offerings to the dustbin of computer programs and assume complete dominance over the Internet user experience through the over 90% market share of their Internet Explorer web browser. 
+One of the most critical moments in the history of Internet innovation was the first half of the last decade when Microsoft seemed poised to vanquish Netscape’s browser offerings to the dustbin of computer programs and assume complete dominance over the Internet user experience with the market share of their Internet Explorer web browser exceeding 90%. 
 
 It's not as though no one saw it coming. In fact it was widely anticipated. On May 18, 1998, a time when most estimates has Netscape's Navigator browser with over double the market share of Internet Explorer,[0] the United States Justice Department under the direction of Attorney General Janet Reno in conjunction with the Attorney Generals of 20 states and the District of Columbia filed suit against Microsoft, charging them “with engaging in anticompetitive and exclusionary practices designed to maintain its monopoly in personal computer operating systems and to extend that monopoly to Internet browsing software.”[1]
  

@@ -2,7 +2,7 @@
 
 Everyone Agrees that Monopolies are Bad
 
-The contention that monopolies are bad is widely considered to be so unambiguously decided and obvious, that in most cases it is not even necessary to explain why monopolies are bad, merely arguing that something results in a monopoly is enough reason to be opposed to it. Congress has deemed preventing monopolies to be in such a vested
+The contention that monopolies are bad is widely considered to be so unambiguously decided and obvious, that in most cases it is not even necessary to explain why monopolies are bad, merely arguing that something results in a monopoly is enough reason to be opposed to it. Congress has deemed preventing monopolies to be in such a vested that they 
 
 Historically, the association of patents with government granted monopolies was much more apparent. In fact the first statutory expression of patents in English law by Parliament in 1624 was called the Statute of Monopolies.[38] In many countries, such as England, patents started as royal decrees based not on an invention, but merely on political connections and favors. In fact, in some cases patents didn’t even have to be given for a new invention, but rather
 
@@ -27,19 +27,19 @@ There is certainly fierce and even occasionally healthy debate within the libert
 
 The utilitarian arguments for copyright and patents are not that they are areas of natural monopoly where formation of a monopoly is an inevitable outcome of market competition, but rather the exact opposition. Proponents instead argue that without monopoly, the innovation or creative work, and the resulting market, would not have been created in the first place without the potential for monopoly. They argue that the system of intellectual property is necessary to properly incentivize innovation. Such logic is used everywhere from Article 1 Section 8 of the US Constitution[44]
 
-These arguments go out the window when a creation has already been completed and the creator voluntarily chooses to forgo additional government privileges, which is what happens when software is licensed in a way that leaves other free to build on, modify and adapt the original code. The argument that something will not be created simply can not apply once it has already been created.
+These arguments go out the window when a creation has already been completed and the creator voluntarily chooses to forgo additional government privileges. That is precisely what happens when software is licensed in a way that leaves other free to build on, modify and adapt the original code. The argument that something will not be created is simply not applicable once it has already been created.
 
-Furthermore, there is no good argument that it would somehow be better if creators utilized their intellectual property to extract rents perhaps with the justification that that those funds would allow for further creation and innovation for several reasons. First, there is no guarantee that intellectual property can yield a profit in the first place, even with monopoly protection. Secondly, there is no reason way to guarantee that even with additional money the creator will produce more of something useful or that they will even try, perhaps retirement would be preferred. Finally, the case rests on the assumption that money would fail to be available to the creator through some other means.
+Furthermore, there is no good argument that it would somehow be better if creators utilized their intellectual property to extract rents perhaps with the justification that that those funds would allow for further creation and innovation for several reasons. First, there is no guarantee that intellectual property can yield a profit in the first place, even with monopoly protection. Secondly, there is no reason way to guarantee that even with additional money the creator will produce more of something useful or that they will even try, perhaps retirement would be preferred. Finally, the case rests on the assumption that money would fail to be available to the creator through some other means, which while possible is certainly not guaranteed.
 
-Perhaps such a specific scenario does exist, but even still, from a utilitarian perspective, that loss would have to outweigh the gains from all of the forgone exclusion, which, as this book sets out to show, are quite large.
+Perhaps such a specific scenario does exist. Still, even from a utilitarian perspective, that loss would have to outweigh the gains from all of the forgone exclusion, which, as this book sets out to show, are quite large.
 
-Even if it was the case, there is also no libertarian solution to force a creator to try to use a government granted monopoly to extract higher rents from the market.
+However, even if that was the case, there is no mechanism to force a creator to try to use a government granted monopoly to extract higher rents from the market widely supported even by non-libertarians, much less any kind of actual libertarian, even pro-IP ones.
 
-The moral or ethical arguments for intellectual property have come from such libertarians as Ayn Rand, Andrew Joseph Galambos[45] and J. Neil Schulman[46].[47] The logic of these arguments is that intellectual property is a legitimate extension of the natural right of private property ownership.
+The moral or ethical arguments for intellectual property have come from such libertarians as Ayn Rand, Andrew Joseph Galambos[45] and J. Neil Schulman[46].[47] Though their specific arguments in favor of intellecutal property vary, they all share the same basic logic, arguing that intellectual property is a legitimate extension of the natural right of private property ownership.
 
 However, granting someone the ethical right to exclude people from the benefits of their work implicitly grants, or ought to grant, them the right to choose not to do so.
 
-Thus, though my argument is heavily steeped in and inspired by anti-IP libertarian theory and arguments, the idea that it is best to choose the software with the least intellectual property restrictions is one that applies to not only anti-IP libertarians, but libertarians of all kinds. In fact, at the root of my arguments are the same ideas that lead people to oppose monopolies.
+Therefore, despite my presentation of the argument as heavily steeped in and inspired by anti-IP libertarian theory and arguments, the idea that it is best to choose the software with the least intellectual property restrictions is one that applies to not only anti-IP libertarians, but libertarians of all kinds. In fact, at the root of my arguments are the same ideas that lead people to oppose all monopolies, not just those
 
 ____________
 
