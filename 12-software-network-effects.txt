@@ -1,4 +1,4 @@
-11. Software Network Effects
+12. Software Network Effects
 
 The economics of the market for consumer computer software are often distinctive because of a phenomenon called network effects. Network effects are when a good or a service becomes more valuable when it is used by more people. These impacts can be seen in the markets for operating systems, programs that run locally on individual computers such as office suites and web browsers and in formats used to save and display text, audio, pictures and videos. 
 

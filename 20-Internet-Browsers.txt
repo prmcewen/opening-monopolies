@@ -1,4 +1,4 @@
-17. Internet Browsers
+20. Internet Browsers
 
 In the browser wars, there are basically 5 browsers that dominate the desktop market, Microsoft’s Internet Explorer, Google’s Chrome, Mozilla’s Firefox, Apple’s Safari, and Opera. Depending on who you ask, other browsers comprise anywhere from .13% of usage to 4.5%. [1]
 

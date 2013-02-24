@@ -1,4 +1,4 @@
-15. Permissive Software as an Open Monopoly Trojan Horse
+16. Permissive Software as an Open Monopoly Trojan Horse
 
 Imagine for a moment, the following situation. A software developer is undertaking a new project and has a policy, at least for this project, that all of their code must be closed source and proprietary. In the field of competitive software, there exists an open source program. For our concerns, the competitive proprietary products are irrelevant. Lets consider how the situation might play out different if the open source program is copyleft licenses, for example under the GPL, compared to how it would play out if the open source program is permissively licensed, for example under the BSD license.
 

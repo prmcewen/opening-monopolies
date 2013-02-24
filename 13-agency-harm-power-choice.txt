@@ -1,4 +1,4 @@
-12. Agency Harm and the Power of Your Choice
+13. Agency Harm and the Power of Your Choice
 
 There is a reason that Google spends millions of dollars each year trying to get you to use their free browser or pick a phone powered by their free operating system, that Microsoft gives discounts to students and schools to get kids learning on computers powered by their software, that Apple tightly restricts the software ecosystems of their products, Richard Stallman and the FSF don't want you touching anything powered by non-free software and Facebook so desperately wants you to sign up for and log onto their free website. Users give them power. The power to control the direction of technology, software and the internet.
 

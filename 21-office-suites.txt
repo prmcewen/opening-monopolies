@@ -1,4 +1,4 @@
-19. Office Suites
+21. Office Suites
 
 the place where free software has the biggest ability to make a dent in the profits of proprietary manufacturers is, at least initially, not in the area of operating systems but rather in the area of productivity software. Microsoft Office increasingly represents a big source of revenue for Microsoft and there already exists a number of free software Office replacement options. Libre Office and Apache Open Office (formerly OpenOffice.org) already exist and run on Windows, Macs, Linux and BSD variants. Google Docs also is an option to replace Office products that operates entirely in the browser and can therefore
 
